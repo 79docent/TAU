@@ -1,0 +1,13 @@
+Scenariusz 1 - test1(dla przegladarki firefox), test3(dla przegladarki firefox)
+
+1. wejscie na strone www: https://wolnifarmerzy.pl/
+2. podanie danych logowania
+3. zalogowanie
+
+Scenariusz 2 - test2(dla przegladarki firefox), test4(dla przegladarki firefox)
+
+1. wejscie na strone www: https://www.beatstars.com/
+2. wejscie w zakladke Tracks
+3. wpisanie słowa "pop"
+4. klikniecie enter
+5. przejscie na strone z wynikami wyszukiwania
