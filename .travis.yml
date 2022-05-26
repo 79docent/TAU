@@ -1,0 +1,5 @@
+language: java
+before_script:
+ - cd LAB1
+script:
+ - gradle test --tests src.Test.AppTest
